@@ -3,6 +3,14 @@
   margin-top: 30px;
 }
 
-.team h3 {
-  font-size: 20px;
+.team {
+  color: $dark-blue;
+  h3 {
+    font-size: 20px;
+    transition: 0.5s;
+    &:hover {
+      font-size: 30px;
+      color: $red;
+    }
+  }
 }
