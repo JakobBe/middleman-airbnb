@@ -1,0 +1,56 @@
+.booking {
+  display: flex;
+  align-items: center;
+  margin: 0 40px;
+  justify-content: space-around;
+
+  .avatar {
+    margin-bottom: 20px;
+  }
+
+  .rating {
+    color: $gold;
+  }
+
+  .form-control {
+    margin-bottom: 20px;
+  }
+
+  .book-now {
+    width: 100%;
+  }
+}
+
+.flat-info {
+  background-color: $beige;
+  margin-top: 50px;
+  padding: 20px 50px;
+
+  h4 {
+    margin-bottom: 30px;
+  }
+
+  ul {
+    list-style-type: none;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    list-style-position: inside;
+  }
+  .description {
+    margin-bottom: 30px;
+    border-bottom: 1px solid $dark-blue;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

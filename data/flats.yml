@@ -1,0 +1,78 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  rating: 4
+  wifi: true
+  beer: true
+  fire-extinguisher: true
+  coffee: true
+  bicycle: true
+  key: true
+  birthday-cake: true
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  rating: 3
+  wifi: true
+  beer: true
+  fire-extinguisher: false
+  coffee: false
+  bicycle: true
+  key: false
+  birthday-cake: true
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  rating: 3
+  wifi: false
+  beer: false
+  fire-extinguisher: true
+  coffee: true
+  bicycle: false
+  key: true
+  birthday-cake: true
+JakobBe:
+  name: "Jakobs Hut"
+  description: Small hut, nothing inside.
+  city_name: "Frankfurt, Germany"
+  city_slug: "frankfurt"
+  rating: 4
+  wifi: false
+  beer: true
+  fire-extinguisher: false
+  coffee: false
+  bicycle: false
+  key: false
+  birthday-cake: false
+lu-hamani:
+  name: "Lucas Palace"
+  description: Amazing palace, juts like Versailles.
+  city_name: "Paris, France"
+  city_slug: "paris"
+  rating: 4
+  wifi: true
+  beer: false
+  fire-extinguisher: true
+  coffee: true
+  bicycle: true
+  key: false
+  birthday-cake: true
+pierrea1:
+  name: "Pierre's Darkroom"
+  description: No protection needed, everyone is clean.
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  rating: 5
+  wifi: true
+  beer: true
+  fire-extinguisher: true
+  coffee: true
+  bicycle: false
+  key: false
+  birthday-cake: false
